@@ -1,8 +1,6 @@
 ---
-title: "Multiple Regression Lab"
+title: "Multiple Regression"
 author: "Suprita Bhomkar"
-date: "10/20/2020"
-output: word_document
 ---
 
 ```{r setup, include=FALSE}
